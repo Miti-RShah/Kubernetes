@@ -5,6 +5,3 @@ Helm is a package manager that works with kubernetes manifests. You can try inst
 Steps:
     -`helm repo add <name> <your repo url>`
     - `helm update`
-
-You can use a my sample cassandra image for reference;
-URL - https://abhijithganesh.github.io/dokc-helm-chart/
