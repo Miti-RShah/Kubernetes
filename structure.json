@@ -1,0 +1,12 @@
+{
+    "title": "My Scenarios",
+    "scenarios": [
+      {
+        "title": "Simple Kubernetes Demo",
+        "description": "Start a simple helm scenario ",
+        "difficulty": "Beginner",
+        "path": "scenario-1"
+      }
+    ]
+  }
+  
